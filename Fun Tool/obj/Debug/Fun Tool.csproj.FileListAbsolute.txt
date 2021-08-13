@@ -1,0 +1,7 @@
+C:\Users\Julian\source\repos\Fun Tool\Fun Tool\bin\Debug\Fun Tool.exe.config
+C:\Users\Julian\source\repos\Fun Tool\Fun Tool\bin\Debug\Fun Tool.exe
+C:\Users\Julian\source\repos\Fun Tool\Fun Tool\bin\Debug\Fun Tool.pdb
+C:\Users\Julian\source\repos\Fun Tool\Fun Tool\obj\Debug\Fun Tool.csproj.AssemblyReference.cache
+C:\Users\Julian\source\repos\Fun Tool\Fun Tool\obj\Debug\Fun Tool.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\Fun Tool\Fun Tool\obj\Debug\Fun Tool.exe
+C:\Users\Julian\source\repos\Fun Tool\Fun Tool\obj\Debug\Fun Tool.pdb
